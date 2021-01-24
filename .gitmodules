@@ -1,0 +1,3 @@
+[submodule "src/lidar_simulator"]
+	path = src/lidar_simulator
+	url = git@github.com:wuhan-geodesy/lidar_simulator.git
